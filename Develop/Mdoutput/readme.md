@@ -1,24 +1,40 @@
-# t
+# none
+  ![badge](https://img.shields.io/badge/license-Academic-brightred)
+<br />
+This application is covered by the Academic license. 
 # Description: 
-a
+none
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 # Installation:
-j
+none
 
 # Usage:
-k
+none
 
 # Licence:
-undefined
+![badge](https://img.shields.io/badge/license-Academic-brightred)
+<br />
+This application is covered by the Academic license. 
 
 # Contributions:
-me
+
 
 # Tests:
-no
+
+
+# Questions:
+
 
 # GitUsername:
-kjl
+
 
 # Email:
-lkjlj@kk.com
+
