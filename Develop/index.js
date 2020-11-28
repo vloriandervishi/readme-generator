@@ -28,7 +28,7 @@ const questions = [
     type: "list",
     name: "license",
     message: "choose the licensce for this project:",
-    choices: ["Apache", "Academic", "GNU", "ISC", "MIT", "MOZILLA", "OPEN"]
+    choices: ["Apache", "Academic", "GNU", "ISC", "MIT", "MOZILLA", "OPEN"],
   },
   {
     type: "input",
@@ -41,9 +41,9 @@ const questions = [
     message: "Is there any tests included?",
   },
   {
-     type: 'input',
-     name: 'questions',
-     message: 'What are the issues I wll be facing in this project?'
+    type: "input",
+    name: "questions",
+    message: "What are the issues I wll be facing in this project?",
   },
   {
     type: "input",
