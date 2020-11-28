@@ -43,7 +43,7 @@ const questions = [
   {
     type: "input",
     name: "questions",
-    message: "What are the issues I wll be facing in this project?",
+    message: "For any other questions please email me or ?",
   },
   {
     type: "input",
@@ -56,7 +56,7 @@ const questions = [
     message: "Please enter your email?",
   },
 ];
-console.log(questions);
+//console.log(questions);
 const getInput = () => {
   return inquirer.prompt(questions);
 };
@@ -72,5 +72,5 @@ function writeToFile(fileName, data) {
 getInput().then((data) => {
   var markeData = generateMarkdown(data);
   writeToFile("./Mdoutput/readme.md", markeData);
-  console.log(data);
+ // console.log(data);
 });
